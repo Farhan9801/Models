@@ -1,0 +1,6 @@
+python==3.10.14
+streamlit==1.32.2
+numpy==1.26.4
+pandas==2.2.1
+torch==2.3.0
+timm==0.9.16
